@@ -57,9 +57,9 @@
   }
   
   .canal .imagem {
-    width: 100%;
+    width: 100vw;
     position: relative;
-    padding-bottom: 100%;
+    padding-bottom: 100vw;
   }
   
   .canal .imagem img {
