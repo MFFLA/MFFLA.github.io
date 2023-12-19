@@ -12,17 +12,7 @@
       
     <div class="header">
       <div class="container">
-        <h1>Canais Ao Vivo</h1>
-        <form>
-          <select id="categoria">
-            <option value="">Todas as Categorias</option>
-            <option value="Globo">Globo</option>
-            <option value="Canais Abertos">Canais Abertos</option>
-            <option value="Esportes">Esportes</option>
-            <option value="Noticias">Notícias</option>
-            <option value="Entretenimento">Entretenimento</option> 
-          </select>
-        </form>
+        <h1>APP TV</h1>
       </div>
     </div>
   
@@ -984,9 +974,9 @@
                 <div class="informacoes">
                   <h2>Premiere 2 (Alternativo)</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=premiere2alternativo" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=UFJFTUlFUkUgMg==&epg=108-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=premiere2alternativo&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=UFJFTUlFUkUgMg==&epg=108-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -995,9 +985,9 @@
                 <div class="informacoes">
                   <h2>Premiere 3 (Alternativo)</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=premiere3alternativo" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=UFJFTUlFUkUgMw==&epg=109-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=premiere3alternativo&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=UFJFTUlFUkUgMw==&epg=109-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1006,9 +996,9 @@
                 <div class="informacoes">
                   <h2>Premiere 4 (Alternativo)</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=premiere4alternativo" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=UFJFTUlFUkUgNA==&epg=110-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=premiere4alternativo&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=UFJFTUlFUkUgNA==&epg=110-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1017,9 +1007,9 @@
                 <div class="informacoes">
                   <h2>Premiere 5 (Alternativo)</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=premiere5alternativo" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=UFJFTUlFUkUgNQ==&epg=111-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=premiere5alternativo&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=UFJFTUlFUkUgNQ==&epg=111-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1028,9 +1018,9 @@
                 <div class="informacoes">
                   <h2>Premiere 6 (Alternativo)</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=premiere6alternativo" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=UFJFTUlFUkUgNg==&epg=112-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=premiere6alternativo&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=UFJFTUlFUkUgNg==&epg=112-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1039,9 +1029,9 @@
                 <div class="informacoes">
                   <h2>Premiere 7 (Alternativo)</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=premiere7alternativo" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=UFJFTUlFUkUgNw==&epg=113-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=premiere7alternativo&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=UFJFTUlFUkUgNw==&epg=113-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1050,9 +1040,9 @@
                 <div class="informacoes">
                   <h2>Premiere 8 (Alternativo)</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=premiere8alternativo" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=UFJFTUlFUkUgOA==&img=https://i.ibb.co/pQ1RyWc/feb9c2070b32898e950adae21b937982f722cd41-1.webp" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=premiere8alternativo&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=UFJFTUlFUkUgOA==&img=https://i.ibb.co/pQ1RyWc/feb9c2070b32898e950adae21b937982f722cd41-1.webp&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1061,9 +1051,9 @@
                 <div class="informacoes">
                   <h2>Paramount+</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=paramountplus" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=UEFSQU1PVU5UIENIQU5ORUw=" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=paramountplus&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=UEFSQU1PVU5UIENIQU5ORUw=&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1072,9 +1062,9 @@
                 <div class="informacoes">
                   <h2>Paramount+ 2</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=paramountplus2" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.lancecerteiro.com/api.php?token=watch&id=paramountesportes2&epg=90-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=paramountplus2&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.lancecerteiro.com/api.php?token=watch&id=paramountesportes2&epg=90-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1083,9 +1073,9 @@
                 <div class="informacoes">
                   <h2>Paramount+ 3</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=paramountplus3" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.lancecerteiro.com/api.php?token=watch&id=paramountesportes3&epg=91-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=paramountplus3&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.lancecerteiro.com/api.php?token=watch&id=paramountesportes3&epg=91-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1094,9 +1084,9 @@
                 <div class="informacoes">
                   <h2>Paramount+ 4</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=paramountplus4" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://claro.golsaovivo.com/ctv.php?id=UGFyYW1vdW50KyA0&epg=92-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=paramountplus4&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://claro.golsaovivo.com/ctv.php?id=UGFyYW1vdW50KyA0&epg=92-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1105,9 +1095,9 @@
                 <div class="informacoes">
                   <h2>Paramount+ (Alternativo)</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=paramountplusalternativo" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://claro.golsaovivo.com/ctv.php?id=UGFyYW1vdW50KyAx&epg=89-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=paramountplusalternativo&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://claro.golsaovivo.com/ctv.php?id=UGFyYW1vdW50KyAx&epg=89-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1116,9 +1106,9 @@
                 <div class="informacoes">
                   <h2>Paramount+ 2 (Alternativo)</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=paramountplus2alternativo" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://claro.golsaovivo.com/ctv.php?id=UGFyYW1vdW50KyAy&epg=90-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=paramountplus2alternativo&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://claro.golsaovivo.com/ctv.php?id=UGFyYW1vdW50KyAy&epg=90-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1127,9 +1117,9 @@
                 <div class="informacoes">
                   <h2>Paramount+ 3 (Alternativo)</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=paramountplus3alternativo" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://claro.golsaovivo.com/ctv.php?id=UGFyYW1vdW50KyAz&epg=91-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=paramountplus3alternativo&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://claro.golsaovivo.com/ctv.php?id=UGFyYW1vdW50KyAz&epg=91-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1138,9 +1128,9 @@
                 <div class="informacoes">
                   <h2>Paramount+ 4 (Alternativo)</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=paramountplus4alternativo" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://claro.golsaovivo.com/ctv.php?id=UGFyYW1vdW50KyA0&epg=92-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=paramountplus4alternativo&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://claro.golsaovivo.com/ctv.php?id=UGFyYW1vdW50KyA0&epg=92-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1149,9 +1139,9 @@
                 <div class="informacoes">
                   <h2>Combate</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=combate" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=Q09NQkFURQ==" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=combate&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=Q09NQkFURQ==&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1182,9 +1172,9 @@
                 <div class="informacoes">
                   <h2>Fox Sports 2</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=foxsports2" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=foxsports2" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=foxsports2&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=foxsports2&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1193,9 +1183,9 @@
                 <div class="informacoes">
                   <h2>Band Sports</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=bandsports" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=QmFuZCBTcG9ydHM=" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=bandsports&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=QmFuZCBTcG9ydHM=&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1204,9 +1194,9 @@
                 <div class="informacoes">
                   <h2>Nosso Futebol</h2>
                   <p>Esportes</p>
-                  <a href="https://reidoscanais.com/embed/?id=nossofutebol" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://claro.golsaovivo.com/ctv.php?id=Tk9TU08gRlVURUJPTCBIRA==&epg=315-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=nossofutebol&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://claro.golsaovivo.com/ctv.php?id=Tk9TU08gRlVURUJPTCBIRA==&epg=315-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1215,9 +1205,9 @@
                 <div class="informacoes">
                   <h2>TNT Sports</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=tntsports" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://claro.golsaovivo.com/ctv.php?id=VE5UIEhE&epg=9-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=tntsports&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://claro.golsaovivo.com/ctv.php?id=VE5UIEhE&epg=9-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1226,9 +1216,9 @@
                 <div class="informacoes">
                   <h2>Telecine Premium</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=telecinepremium" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=VEVMRUNJTkUgUFJFTUlVTQ==" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=telecinepremium&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=VEVMRUNJTkUgUFJFTUlVTQ==&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1237,9 +1227,9 @@
                 <div class="informacoes">
                   <h2>Telecine Pipoca</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=telecinepipoca" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=VEVMRUNJTkUgUElQT0NB" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=telecinepipoca&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=VEVMRUNJTkUgUElQT0NB&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1248,9 +1238,9 @@
                 <div class="informacoes">
                   <h2>Telecine Action</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=telecineaction" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=VEVMRUNJTkUgQUNUSU9O" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=telecineaction&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=VEVMRUNJTkUgQUNUSU9O&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1259,9 +1249,9 @@
                 <div class="informacoes">
                   <h2>Telecine Touch</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=telecinetouch" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=VEVMRUNJTkUgVE9VQ0g=" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=telecinetouch&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=VEVMRUNJTkUgVE9VQ0g=&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1270,9 +1260,9 @@
                 <div class="informacoes">
                   <h2>Telecine Fun</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=telecinefun" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=VEVMRUNJTkUgRlVO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=telecinefun&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=VEVMRUNJTkUgRlVO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1281,9 +1271,9 @@
                 <div class="informacoes">
                   <h2>Telecine Cult</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=telecinecult" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=VEVMRUNJTkUgQ1VMVA==" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=telecinecult&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=VEVMRUNJTkUgQ1VMVA==&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1292,9 +1282,9 @@
                 <div class="informacoes">
                   <h2>HBO</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=hbo" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=hbo" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=hbo&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=hbo&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1303,9 +1293,9 @@
                 <div class="informacoes">
                   <h2>HBO 2</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=hbo2" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=hbo2" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=hbo2&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=hbo2&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1314,9 +1304,9 @@
                 <div class="informacoes">
                   <h2>HBO Plus</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=hboplus" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=hboplus" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=hboplus&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=hboplus&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1325,9 +1315,9 @@
                 <div class="informacoes">
                   <h2>HBO Family</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=hbofamily" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=hbofamily" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=hbofamily&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=hbofamily&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1336,9 +1326,9 @@
                 <div class="informacoes">
                   <h2>HBO Signature</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=hbosignature" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=hbosignature" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=hbosignature&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=hbosignature&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1347,9 +1337,9 @@
                 <div class="informacoes">
                   <h2>HBO Xtreme</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=hboxtreme" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=hboxtreme" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=hboxtreme&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=hboxtreme&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1358,9 +1348,9 @@
                 <div class="informacoes">
                   <h2>Discovery Channel</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=discoverychannel" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=discoverychannel" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=discoverychannel&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=discoverychannel&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1369,9 +1359,9 @@
                 <div class="informacoes">
                   <h2>Discovery World</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=discoveryworld" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=discoveryworld" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=discoveryworld&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=discoveryworld&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1380,9 +1370,9 @@
                 <div class="informacoes">
                   <h2>Discovery Turbo</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=discoveryturbo" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=discoveryturbo" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=discoveryturbo&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=discoveryturbo&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1391,9 +1381,9 @@
                 <div class="informacoes">
                   <h2>Discovery ID</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=discoveryid" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=discoveryid" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=discoveryid&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=discoveryid&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1402,9 +1392,9 @@
                 <div class="informacoes">
                   <h2>Discovery Kids</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=discoverykids" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=discoverykids" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=discoverykids&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=discoverykids&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1413,9 +1403,9 @@
                 <div class="informacoes">
                   <h2>Discovery H&amp;H</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=discoveryheh" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=discoveryheh" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=discoveryheh&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=discoveryheh&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1424,9 +1414,9 @@
                 <div class="informacoes">
                   <h2>Discovery Theater</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=discoverytheater" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=discoverytheater" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=discoverytheater&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=discoverytheater&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1435,9 +1425,9 @@
                 <div class="informacoes">
                   <h2>Discovery Science</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=discoveryscience" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=discoveryscience" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=discoveryscience&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=discoveryscience&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1446,9 +1436,9 @@
                 <div class="informacoes">
                   <h2>Comedy Central</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=comedycentral" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=comedycentral" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=comedycentral&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=comedycentral&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1457,9 +1447,9 @@
                 <div class="informacoes">
                   <h2>MTV</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=mtv" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=TVRW" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=mtv&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=TVRW&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1468,9 +1458,9 @@
                 <div class="informacoes">
                   <h2>MTV Live</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=mtvlive" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=TVRWIExJVkU=" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=mtvlive&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=TVRWIExJVkU=&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1479,9 +1469,9 @@
                 <div class="informacoes">
                   <h2>Nick Jr</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=nickjr" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=TklDSyBKUg==" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=nickjr&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=TklDSyBKUg==&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1490,9 +1480,9 @@
                 <div class="informacoes">
                   <h2>Lifetime</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=lifetime" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=lifetime" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=lifetime&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=lifetime&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1501,9 +1491,9 @@
                 <div class="informacoes">
                   <h2>Agro+</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=agromais" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=QWdybyAr" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=agromais&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=QWdybyAr&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1512,9 +1502,9 @@
                 <div class="informacoes">
                   <h2>Arte1</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=arte1" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=QXJ0ZSAx" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=arte1&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=QXJ0ZSAx&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1523,9 +1513,9 @@
                 <div class="informacoes">
                   <h2>Terra Viva</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=terraviva" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=VGVycmEgVml2YQ==" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=terraviva&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=VGVycmEgVml2YQ==&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1534,9 +1524,9 @@
                 <div class="informacoes">
                   <h2>AMC</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=amc" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=amc" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=amc&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=amc&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1545,9 +1535,9 @@
                 <div class="informacoes">
                   <h2>AXN</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=axn" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=axn" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=axn&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=axn&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1556,9 +1546,9 @@
                 <div class="informacoes">
                   <h2>BIS</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=bis" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=bis" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=bis&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=bis&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1567,9 +1557,9 @@
                 <div class="informacoes">
                   <h2>Canal Brasil</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=canalbrasil" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=Q0FOQUwgQlJBU0lM" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=canalbrasil&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=Q0FOQUwgQlJBU0lM&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1578,9 +1568,9 @@
                 <div class="informacoes">
                   <h2>E!</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=e" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=QklT" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=e&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=QklT&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1589,9 +1579,9 @@
                 <div class="informacoes">
                   <h2>FX</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=fx" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=fx" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=fx&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=fx&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1600,9 +1590,9 @@
                 <div class="informacoes">
                   <h2>Gloob</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=gloob" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=R0xPT0I=" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=gloob&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=R0xPT0I=&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1611,9 +1601,9 @@
                 <div class="informacoes">
                   <h2>Gloobinho</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=gloobinho" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=R0xPT0JJTkhP" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=gloobinho&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=R0xPT0JJTkhP&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1622,9 +1612,9 @@
                 <div class="informacoes">
                   <h2>GNT</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=gnt" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=R05U" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=gnt&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=R05U&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1633,9 +1623,9 @@
                 <div class="informacoes">
                   <h2>History</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=history" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=history" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=history&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=history&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1655,9 +1645,9 @@
                 <div class="informacoes">
                   <h2>Megapix</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=megapix" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=TUVHQVBJWA==" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=megapix&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=TUVHQVBJWA==&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1666,9 +1656,9 @@
                 <div class="informacoes">
                   <h2>Modo Viagem</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=modoviagem" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=TU9ETyBWSUFHRU0=" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=modoviagem&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=TU9ETyBWSUFHRU0=&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1677,9 +1667,9 @@
                 <div class="informacoes">
                   <h2>Multishow</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=multishow" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=TVVMVElTSE9X" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=multishow&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=TVVMVElTSE9X&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1688,9 +1678,9 @@
                 <div class="informacoes">
                   <h2>Canal Off</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=canaloff" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=T0ZG" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=canaloff&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=T0ZG&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1699,9 +1689,9 @@
                 <div class="informacoes">
                   <h2>Studio Universal</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=studiouniversal" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=U1RVRElPIFVOSVZFUlNBTA==" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=studiouniversal&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=U1RVRElPIFVOSVZFUlNBTA==&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1710,9 +1700,9 @@
                 <div class="informacoes">
                   <h2>SyFy</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=syfy" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=U1lGWQ==" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=syfy&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=U1lGWQ==&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1721,9 +1711,9 @@
                 <div class="informacoes">
                   <h2>Universal TV</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=universaltv" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=VU5JVkVSU0FM" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=universaltv&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=VU5JVkVSU0FM&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1732,9 +1722,9 @@
                 <div class="informacoes">
                   <h2>Cinemax</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=cinemax" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=cinemax" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=cinemax&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=cinemax&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1743,9 +1733,9 @@
                 <div class="informacoes">
                   <h2>Cinecanal</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=cinecanal" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=cinecanal" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=cinecanal&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=cinecanal&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1754,9 +1744,9 @@
                 <div class="informacoes">
                   <h2>Paramount Network</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=paramountnetwork" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=UEFSQU1PVU5UIENIQU5ORUw=" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=paramountnetwork&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=UEFSQU1PVU5UIENIQU5ORUw=&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1765,9 +1755,9 @@
                 <div class="informacoes">
                   <h2>Animal Planet</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=animalplanet" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=animalplanet" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=animalplanet&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=animalplanet&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1776,9 +1766,9 @@
                 <div class="informacoes">
                   <h2>Cartoon Network</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=cartoonnetwork" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=cartoonnetwork" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=cartoonnetwork&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=cartoonnetwork&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1787,9 +1777,9 @@
                 <div class="informacoes">
                   <h2>Disney Channel</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=disneychannel" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=disneychannel" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=disneychannel&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=disneychannel&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1798,9 +1788,9 @@
                 <div class="informacoes">
                   <h2>National Geographic</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=nationalgeographic" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://livestreamgratis.com/play.php?stream=nationalgeographic" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=nationalgeographic&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://livestreamgratis.com/play.php?stream=nationalgeographic&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1809,9 +1799,9 @@
                 <div class="informacoes">
                   <h2>Nickelodeon</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=nickelodeon" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=TklDS0VMT0RFT04=" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=nickelodeon&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=TklDS0VMT0RFT04=&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1820,9 +1810,9 @@
                 <div class="informacoes">
                   <h2>Sony Channel</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=sonychannel" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://claro.golsaovivo.com/ctv.php?id=U09OWSBDSEFOTkVM&epg=82-SAO%20PAULO,SAO%20PAULO" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=sonychannel&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://claro.golsaovivo.com/ctv.php?id=U09OWSBDSEFOTkVM&epg=82-SAO%20PAULO,SAO%20PAULO&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -1831,9 +1821,9 @@
                 <div class="informacoes">
                   <h2>Sony Movies</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=sonymovies" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://rdc.judicialresearch.com/api.php?token=dtv&id=sonymovies&img=https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/src/img/default_channel.jpg" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=sonymovies&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://rdc.judicialresearch.com/api.php?token=dtv&id=sonymovies&img=https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/src/img/default_channel.jpg&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -2029,9 +2019,9 @@
                 <div class="informacoes">
                   <h2>Aparecida</h2>
                   <p>Entretenimento</p>
-                  <a href="https://reidoscanais.com/embed/?id=aparecida" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=QXBhcmVjaWRh" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=aparecida&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=QXBhcmVjaWRh&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -2469,9 +2459,9 @@
                 <div class="informacoes">
                   <h2>TV Gazeta</h2>
                   <p>Canais Abertos</p>
-                  <a href="https://reidoscanais.com/embed/?id=gazeta" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
+                  <a href="https://watch.sexocomlegenda.com/play.php?id=R0FaRVRB" target="_blank" style="display: block; margin: 0 auto; text-align: center;">Assistir Agora</a>
                   <hr style="color: #ffffff; height: 4px; width: 100%;">
-                  <input type="text" value="<iframe src=&quot;https://reidoscanais.com/embed/?id=gazeta&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
+                  <input type="text" value="<iframe src=&quot;https://watch.sexocomlegenda.com/play.php?id=R0FaRVRB&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot;></iframe>" style="display: block; margin: 0 auto; text-align: center; width: 100%;" onclick="this.select(); document.execCommand('copy'); alert('Código do Iframe copiado para a área de transferência!');">
                 </div>
               </div><div class="canal">
                 <div class="imagem">
@@ -2746,8 +2736,8 @@
           © <span id="current-year">2023</span> APP TV. Todos os direitos reservados.
         </div>
         <div class="footer-links">
-          <a href="https://mfflanews.com.br/opcoes-de-contato/sample-page/privacy-policy/">Política de Privacidade</a> |
-          <a href="https://mfflanews.com.br/termos-de-uso/">Termos de Uso</a> |
+          <a href="politica.html">Política de Privacidade</a> |
+          <a href="termos.html">Termos de Uso</a> |
           <a href="dmca.html">DMCA</a>
         </div>
       </div>
